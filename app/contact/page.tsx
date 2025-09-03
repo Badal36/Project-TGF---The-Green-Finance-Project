@@ -6,8 +6,6 @@ import { ContactSchema, ContactInput } from '@/lib/schemas';
 import axiosClient from '@/lib/axiosClient';
 import Button from '@/components/ui/Button';
 
-export const metadata = { title: 'Contact' };
-
 export default function ContactPage() {
   const {
     register,

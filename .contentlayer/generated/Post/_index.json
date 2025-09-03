@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Green Bonds 101",
+    "description": "An introduction to green bonds and how they finance environmental projects.",
+    "date": "2025-08-15T00:00:00.000Z",
+    "author": "TGF Team",
+    "tags": [
+      "bonds",
+      "finance",
+      "climate\r"
+    ],
+    "body": {
+      "raw": "\r\nGreen bonds are fixed-income instruments designed to fund projects with positive environmental benefits.\r\nThey follow established frameworks and verification standards to ensure transparency and accountability.\r\n\r\nKey attributes include use-of-proceeds, reporting, and third-party reviews.\r\n\r\n",
+      "code": "var Component=(()=>{var u=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var l=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),b=(e,n)=>{for(var r in n)s(e,r,{get:n[r],enumerable:!0})},a=(e,n,r,i)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of f(n))!h.call(e,o)&&o!==r&&s(e,o,{get:()=>n[o],enumerable:!(i=p(n,o))||i.enumerable});return e};var j=(e,n,r)=>(r=e!=null?u(l(e)):{},a(n||!e||!e.__esModule?s(r,\"default\",{value:e,enumerable:!0}):r,e)),g=e=>a(s({},\"__esModule\",{value:!0}),e);var d=x((F,c)=>{c.exports=_jsx_runtime});var v={};b(v,{default:()=>_,frontmatter:()=>w});var t=j(d()),w={title:\"Green Bonds 101\",description:\"An introduction to green bonds and how they finance environmental projects.\",date:new Date(1755216e6),author:\"TGF Team\",tags:[\"bonds\",\"finance\",\"climate\"]};function m(e){let n=Object.assign({p:\"p\"},e.components);return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:`Green bonds are fixed-income instruments designed to fund projects with positive environmental benefits.\\r\nThey follow established frameworks and verification standards to ensure transparency and accountability.`}),`\n`,(0,t.jsx)(n.p,{children:\"Key attributes include use-of-proceeds, reporting, and third-party reviews.\"})]})}function y(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,Object.assign({},e,{children:(0,t.jsx)(m,e)})):m(e)}var _=y;return g(v);})();\n;return Component;"
+    },
+    "_id": "blog/green-bonds-101.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/green-bonds-101.mdx",
+      "sourceFileName": "green-bonds-101.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/green-bonds-101"
+    },
+    "type": "Post",
+    "slug": "green-bonds-101"
+  },
+  {
+    "title": "How We Select Projects",
+    "description": "Our criteria for sourcing and diligencing projects at TGF.",
+    "date": "2025-08-25T00:00:00.000Z",
+    "author": "TGF Team",
+    "tags": [
+      "projects",
+      "diligence\r"
+    ],
+    "body": {
+      "raw": "\r\nWe assess additionality, scalability, governance, and community engagement. Each project undergoes\r\nrisk assessment and impact modeling prior to approval.\r\n\r\n",
+      "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var l=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,j=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var n in t)r(e,n,{get:t[n],enumerable:!0})},s=(e,t,n,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of l(t))!j.call(e,o)&&o!==n&&r(e,o,{get:()=>t[o],enumerable:!(i=g(t,o))||i.enumerable});return e};var _=(e,t,n)=>(n=e!=null?p(u(e)):{},s(t||!e||!e.__esModule?r(n,\"default\",{value:e,enumerable:!0}):n,e)),h=e=>s(r({},\"__esModule\",{value:!0}),e);var d=x((O,c)=>{c.exports=_jsx_runtime});var D={};f(D,{default:()=>w,frontmatter:()=>y});var a=_(d()),y={title:\"How We Select Projects\",description:\"Our criteria for sourcing and diligencing projects at TGF.\",date:new Date(175608e7),author:\"TGF Team\",tags:[\"projects\",\"diligence\"]};function m(e){let t=Object.assign({p:\"p\"},e.components);return(0,a.jsx)(t.p,{children:`We assess additionality, scalability, governance, and community engagement. Each project undergoes\\r\nrisk assessment and impact modeling prior to approval.`})}function b(e={}){let{wrapper:t}=e.components||{};return t?(0,a.jsx)(t,Object.assign({},e,{children:(0,a.jsx)(m,e)})):m(e)}var w=b;return h(D);})();\n;return Component;"
+    },
+    "_id": "blog/how-tgf-selects-projects.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/how-tgf-selects-projects.mdx",
+      "sourceFileName": "how-tgf-selects-projects.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/how-tgf-selects-projects"
+    },
+    "type": "Post",
+    "slug": "how-tgf-selects-projects"
+  },
+  {
+    "title": "Measuring Impact That Matters",
+    "description": "How TGF evaluates and reports impact across projects.",
+    "date": "2025-08-20T00:00:00.000Z",
+    "author": "TGF Team",
+    "tags": [
+      "impact",
+      "measurement\r"
+    ],
+    "body": {
+      "raw": "\r\nWe prioritize metrics that reflect real-world outcomes: emissions avoided, beneficiaries reached, and\r\nfinancial inclusion. Our approach combines standardized indicators with project-specific KPIs.\r\n\r\n",
+      "code": "var Component=(()=>{var d=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var l=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var j=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),x=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of l(e))!h.call(t,a)&&a!==n&&r(t,a,{get:()=>e[a],enumerable:!(o=u(e,a))||o.enumerable});return t};var w=(t,e,n)=>(n=t!=null?d(f(t)):{},s(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),M=t=>s(r({},\"__esModule\",{value:!0}),t);var m=j((O,c)=>{c.exports=_jsx_runtime});var T={};x(T,{default:()=>g,frontmatter:()=>_});var i=w(m()),_={title:\"Measuring Impact That Matters\",description:\"How TGF evaluates and reports impact across projects.\",date:new Date(1755648e6),author:\"TGF Team\",tags:[\"impact\",\"measurement\"]};function p(t){let e=Object.assign({p:\"p\"},t.components);return(0,i.jsx)(e.p,{children:`We prioritize metrics that reflect real-world outcomes: emissions avoided, beneficiaries reached, and\\r\nfinancial inclusion. Our approach combines standardized indicators with project-specific KPIs.`})}function b(t={}){let{wrapper:e}=t.components||{};return e?(0,i.jsx)(e,Object.assign({},t,{children:(0,i.jsx)(p,t)})):p(t)}var g=b;return M(T);})();\n;return Component;"
+    },
+    "_id": "blog/impact-measurement.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/impact-measurement.mdx",
+      "sourceFileName": "impact-measurement.mdx",
+      "sourceFileDir": "blog",
+      "contentType": "mdx",
+      "flattenedPath": "blog/impact-measurement"
+    },
+    "type": "Post",
+    "slug": "impact-measurement"
+  }
+]

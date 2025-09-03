@@ -1,0 +1,13 @@
+[
+  { "id": "1", "year": 2024, "region": "Asia", "projectSlug": "solar-microloans-india", "metric": "co2e_avoided", "value": 12000, "unit": "tCO2e/y" },
+  { "id": "2", "year": 2024, "region": "Asia", "projectSlug": "solar-microloans-india", "metric": "beneficiaries", "value": 50000, "unit": "people" },
+  { "id": "3", "year": 2024, "region": "Africa", "projectSlug": "reforestation-bonds-kenya", "metric": "co2e_avoided", "value": 45000, "unit": "tCO2e/y" },
+  { "id": "4", "year": 2024, "region": "Africa", "projectSlug": "reforestation-bonds-kenya", "metric": "beneficiaries", "value": 12000, "unit": "people" },
+  { "id": "5", "year": 2024, "region": "South America", "projectSlug": "sme-efficiency-brazil", "metric": "co2e_avoided", "value": 18000, "unit": "tCO2e/y" },
+  { "id": "6", "year": 2024, "region": "South America", "projectSlug": "sme-efficiency-brazil", "metric": "beneficiaries", "value": 3000, "unit": "people" },
+  { "id": "7", "year": 2025, "region": "Asia", "projectSlug": "solar-microloans-india", "metric": "co2e_avoided", "value": 13000, "unit": "tCO2e/y" },
+  { "id": "8", "year": 2025, "region": "Africa", "projectSlug": "reforestation-bonds-kenya", "metric": "co2e_avoided", "value": 47000, "unit": "tCO2e/y" },
+  { "id": "9", "year": 2025, "region": "South America", "projectSlug": "sme-efficiency-brazil", "metric": "co2e_avoided", "value": 19500, "unit": "tCO2e/y" },
+  { "id": "10", "year": 2025, "region": "South America", "projectSlug": "sme-efficiency-brazil", "metric": "beneficiaries", "value": 3200, "unit": "people" }
+]
+

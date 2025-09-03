@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "solar-microloans-india",
+    "title": "Solar Microloans",
+    "region": "Asia",
+    "country": "India",
+    "type": "Solar",
+    "summary": "Microloans enabling households and SMEs to adopt off-grid solar systems.",
+    "description": "This program finances distributed solar PV systems for rural households and small businesses, improving energy access and reducing diesel generator usage.",
+    "images": ["https://images.unsplash.com/photo-1509395176047-4a66953fd231"],
+    "impact": { "co2e_per_year": 12000, "beneficiaries": 50000, "financing_usd": 3500000 }
+  },
+  {
+    "slug": "reforestation-bonds-kenya",
+    "title": "Reforestation Bonds",
+    "region": "Africa",
+    "country": "Kenya",
+    "type": "Reforestation",
+    "summary": "Performance-linked bonds funding reforestation and community forestry.",
+    "description": "Bonds support restoration of degraded lands with native species, generating carbon credits and local employment.",
+    "images": ["https://images.unsplash.com/photo-1523978591478-c753949ff840"],
+    "impact": { "co2e_per_year": 45000, "beneficiaries": 12000, "financing_usd": 7800000 }
+  },
+  {
+    "slug": "sme-efficiency-brazil",
+    "title": "Energy Efficiency for SMEs",
+    "region": "South America",
+    "country": "Brazil",
+    "type": "Efficiency",
+    "summary": "Retrofits and efficient equipment finance for small and medium enterprises.",
+    "description": "Program finances efficient motors, lighting, and process upgrades for SMEs, cutting energy costs and emissions.",
+    "images": ["https://images.unsplash.com/photo-1518779578993-ec3579fee39f"],
+    "impact": { "co2e_per_year": 18000, "beneficiaries": 3000, "financing_usd": 5200000 }
+  }
+]
+

@@ -4,8 +4,6 @@ import useSWR from 'swr';
 import fetcher from '@/lib/fetcher';
 import Card from '@/components/ui/Card';
 
-export const metadata = { title: 'Projects' };
-
 type Project = {
   slug: string;
   title: string;

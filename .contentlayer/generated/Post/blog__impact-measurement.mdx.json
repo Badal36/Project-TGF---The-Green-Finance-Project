@@ -1,0 +1,24 @@
+{
+  "title": "Measuring Impact That Matters",
+  "description": "How TGF evaluates and reports impact across projects.",
+  "date": "2025-08-20T00:00:00.000Z",
+  "author": "TGF Team",
+  "tags": [
+    "impact",
+    "measurement\r"
+  ],
+  "body": {
+    "raw": "\r\nWe prioritize metrics that reflect real-world outcomes: emissions avoided, beneficiaries reached, and\r\nfinancial inclusion. Our approach combines standardized indicators with project-specific KPIs.\r\n\r\n",
+    "code": "var Component=(()=>{var d=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var l=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var j=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),x=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of l(e))!h.call(t,a)&&a!==n&&r(t,a,{get:()=>e[a],enumerable:!(o=u(e,a))||o.enumerable});return t};var w=(t,e,n)=>(n=t!=null?d(f(t)):{},s(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),M=t=>s(r({},\"__esModule\",{value:!0}),t);var m=j((O,c)=>{c.exports=_jsx_runtime});var T={};x(T,{default:()=>g,frontmatter:()=>_});var i=w(m()),_={title:\"Measuring Impact That Matters\",description:\"How TGF evaluates and reports impact across projects.\",date:new Date(1755648e6),author:\"TGF Team\",tags:[\"impact\",\"measurement\"]};function p(t){let e=Object.assign({p:\"p\"},t.components);return(0,i.jsx)(e.p,{children:`We prioritize metrics that reflect real-world outcomes: emissions avoided, beneficiaries reached, and\\r\nfinancial inclusion. Our approach combines standardized indicators with project-specific KPIs.`})}function b(t={}){let{wrapper:e}=t.components||{};return e?(0,i.jsx)(e,Object.assign({},t,{children:(0,i.jsx)(p,t)})):p(t)}var g=b;return M(T);})();\n;return Component;"
+  },
+  "_id": "blog/impact-measurement.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/impact-measurement.mdx",
+    "sourceFileName": "impact-measurement.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/impact-measurement"
+  },
+  "type": "Post",
+  "slug": "impact-measurement"
+}

@@ -19,7 +19,3 @@ a {
   @apply text-brand hover:text-accent underline-offset-2 hover:underline;
 }
 
-.container {
-  @apply container mx-auto;
-}
-

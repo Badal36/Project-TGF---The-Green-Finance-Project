@@ -1,0 +1,24 @@
+{
+  "title": "How We Select Projects",
+  "description": "Our criteria for sourcing and diligencing projects at TGF.",
+  "date": "2025-08-25T00:00:00.000Z",
+  "author": "TGF Team",
+  "tags": [
+    "projects",
+    "diligence\r"
+  ],
+  "body": {
+    "raw": "\r\nWe assess additionality, scalability, governance, and community engagement. Each project undergoes\r\nrisk assessment and impact modeling prior to approval.\r\n\r\n",
+    "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var l=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,j=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var n in t)r(e,n,{get:t[n],enumerable:!0})},s=(e,t,n,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of l(t))!j.call(e,o)&&o!==n&&r(e,o,{get:()=>t[o],enumerable:!(i=g(t,o))||i.enumerable});return e};var _=(e,t,n)=>(n=e!=null?p(u(e)):{},s(t||!e||!e.__esModule?r(n,\"default\",{value:e,enumerable:!0}):n,e)),h=e=>s(r({},\"__esModule\",{value:!0}),e);var d=x((O,c)=>{c.exports=_jsx_runtime});var D={};f(D,{default:()=>w,frontmatter:()=>y});var a=_(d()),y={title:\"How We Select Projects\",description:\"Our criteria for sourcing and diligencing projects at TGF.\",date:new Date(175608e7),author:\"TGF Team\",tags:[\"projects\",\"diligence\"]};function m(e){let t=Object.assign({p:\"p\"},e.components);return(0,a.jsx)(t.p,{children:`We assess additionality, scalability, governance, and community engagement. Each project undergoes\\r\nrisk assessment and impact modeling prior to approval.`})}function b(e={}){let{wrapper:t}=e.components||{};return t?(0,a.jsx)(t,Object.assign({},e,{children:(0,a.jsx)(m,e)})):m(e)}var w=b;return h(D);})();\n;return Component;"
+  },
+  "_id": "blog/how-tgf-selects-projects.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/how-tgf-selects-projects.mdx",
+    "sourceFileName": "how-tgf-selects-projects.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/how-tgf-selects-projects"
+  },
+  "type": "Post",
+  "slug": "how-tgf-selects-projects"
+}

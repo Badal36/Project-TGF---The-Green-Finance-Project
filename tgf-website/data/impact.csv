@@ -1,0 +1,12 @@
+id,year,region,projectSlug,metric,value,unit
+1,2024,Asia,solar-microloans-india,co2e_avoided,12000,tCO2e/y
+2,2024,Asia,solar-microloans-india,beneficiaries,50000,people
+3,2024,Africa,reforestation-bonds-kenya,co2e_avoided,45000,tCO2e/y
+4,2024,Africa,reforestation-bonds-kenya,beneficiaries,12000,people
+5,2024,South America,sme-efficiency-brazil,co2e_avoided,18000,tCO2e/y
+6,2024,South America,sme-efficiency-brazil,beneficiaries,3000,people
+7,2025,Asia,solar-microloans-india,co2e_avoided,13000,tCO2e/y
+8,2025,Africa,reforestation-bonds-kenya,co2e_avoided,47000,tCO2e/y
+9,2025,South America,sme-efficiency-brazil,co2e_avoided,19500,tCO2e/y
+10,2025,South America,sme-efficiency-brazil,beneficiaries,3200,people
+

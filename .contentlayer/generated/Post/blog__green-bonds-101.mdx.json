@@ -1,0 +1,25 @@
+{
+  "title": "Green Bonds 101",
+  "description": "An introduction to green bonds and how they finance environmental projects.",
+  "date": "2025-08-15T00:00:00.000Z",
+  "author": "TGF Team",
+  "tags": [
+    "bonds",
+    "finance",
+    "climate\r"
+  ],
+  "body": {
+    "raw": "\r\nGreen bonds are fixed-income instruments designed to fund projects with positive environmental benefits.\r\nThey follow established frameworks and verification standards to ensure transparency and accountability.\r\n\r\nKey attributes include use-of-proceeds, reporting, and third-party reviews.\r\n\r\n",
+    "code": "var Component=(()=>{var u=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var l=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),b=(e,n)=>{for(var r in n)s(e,r,{get:n[r],enumerable:!0})},a=(e,n,r,i)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of f(n))!h.call(e,o)&&o!==r&&s(e,o,{get:()=>n[o],enumerable:!(i=p(n,o))||i.enumerable});return e};var j=(e,n,r)=>(r=e!=null?u(l(e)):{},a(n||!e||!e.__esModule?s(r,\"default\",{value:e,enumerable:!0}):r,e)),g=e=>a(s({},\"__esModule\",{value:!0}),e);var d=x((F,c)=>{c.exports=_jsx_runtime});var v={};b(v,{default:()=>_,frontmatter:()=>w});var t=j(d()),w={title:\"Green Bonds 101\",description:\"An introduction to green bonds and how they finance environmental projects.\",date:new Date(1755216e6),author:\"TGF Team\",tags:[\"bonds\",\"finance\",\"climate\"]};function m(e){let n=Object.assign({p:\"p\"},e.components);return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:`Green bonds are fixed-income instruments designed to fund projects with positive environmental benefits.\\r\nThey follow established frameworks and verification standards to ensure transparency and accountability.`}),`\n`,(0,t.jsx)(n.p,{children:\"Key attributes include use-of-proceeds, reporting, and third-party reviews.\"})]})}function y(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,Object.assign({},e,{children:(0,t.jsx)(m,e)})):m(e)}var _=y;return g(v);})();\n;return Component;"
+  },
+  "_id": "blog/green-bonds-101.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/green-bonds-101.mdx",
+    "sourceFileName": "green-bonds-101.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/green-bonds-101"
+  },
+  "type": "Post",
+  "slug": "green-bonds-101"
+}
